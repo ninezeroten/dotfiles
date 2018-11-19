@@ -1,0 +1,31 @@
+Xft.dpi: 190
+Xft.autohint: 0
+Xft.lcdfilter: lcddefault
+Xft.hintstyle: hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+! rofi
+rofi.modi: run
+rofi.font: Hack 30
+rofi.width: 100
+rofi.lines: 5
+rofi.columns: 1
+rofi.hide-scrollbar: true
+
+!                    bg       fg      altbg    hlbg     hlfg
+rofi.color-enabled: true
+rofi.color-window: #80181318, #00181318, #00181318
+rofi.color-normal: #00181318, #99ffffff, #00181318, #00181318, #ffffff
+rofi.color-active: #fdf6e3, #268bd2, #eee8d5, #268bd2, #fdf6e3
+rofi.color-urgent: #fdf6e3, #dc322f, #eee8d5, #dc322f, #fdf6e3
+rofi.bw: 0
+rofi.location: 0
+rofi.padding: 800
+rofi.fuzzy: true
+rofi.eh: 2
+rofi.separator-style: none
+
+
+URxvt.keysym.num1 : \033[?1;23~
